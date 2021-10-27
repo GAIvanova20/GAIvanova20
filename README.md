@@ -27,7 +27,7 @@
 <a href = "https://www.credly.com/earner/earned/badge/043848bb-8b40-4f1e-9cdd-d5c68c30d1da"><img alt="Photoshop" width="75px" src="https://images.credly.com/size/680x680/images/002ad9b8-519d-4771-8d15-f5953a1e695f/Photoshop_Badge.png" ></a>
 
 ### 💻 Current projects I am working on:
-- none for now
+- *None for now*
 
 ### 📊 Statistics:
 ![GAIvanova20's github stats](https://github-readme-stats.vercel.app/api?username=GAIvanova20&show_icons=true&theme=blueberry)
